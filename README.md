@@ -7,7 +7,7 @@
 
 Desenvolvendo soluções digitais que transformam ideias em realidade.
 
-[Portfólio](https://visz-dev.vercel.app) • [LinkedIn](https://linkedin.com) • [Contato](mailto:contato@visz.dev)
+[Portfólio](https://visz-dev.vercel.app) • [LinkedIn](https://linkedin.com/visz.dev) • [Contato](mailto:contatoviszdev@gmail.com)
 
 </div>
 
@@ -16,7 +16,7 @@ Desenvolvendo soluções digitais que transformam ideias em realidade.
 ## Sobre mim
 
 - 💻 Desenvolvedor Web Full Stack
-- 🚀 CEO e desenvolvedor na VISZ.dev
+- 🚀 CEO e desenvolvedor na Agência VISZ
 - 🎓 Professor de programação e tecnologia
 - 🌱 Sempre aprendendo novas tecnologias
 - 🛠️ Desenvolvendo sites, sistemas e aplicações web
